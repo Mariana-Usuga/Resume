@@ -1,0 +1,39 @@
+Mariana Usuga Montoya
+Medellin, Colombia | LinkedIn | +57 317-701-98-62 | musugamontoya@gmail.com
+
+RESUMEN
+Desarrolladora Full Stack con una sólida experiencia en Angular, ReactJs, PostgreSQL, MongoDB, Java y Node.js. 
+He trabajado en el desarrollo de aplicaciones web para comercio electrónico y gestión de procesos, enfocados en 
+soluciones escalables y de alto rendimiento. Además, tengo experiencia en Flutter, utilizando Bloc, Provider e 
+inyección de dependencias, lo que me permite gestionar el estado y mantener una arquitectura limpia y eficiente en 
+las aplicaciones móviles.
+Portafolio: https://portfolio-mariana-usuga.netlify.app
+
+
+EXPERIENCIA
+DMS Software	 Medellín, Colombia
+Desarrolladora Frontend	Octubre 2023 - Abril 2025
+● Trabajé con Flutter para desarrollar una aplicación de pedidos para una bodega.
+● La aplicación permite al bodeguero ver sus asignaciones y productos disponibles, mejorando la gestión y el control de inventario con escaneo de productos mediante código de barras, agilizando el proceso de registro y actualización de inventarios, me aseguré de que la aplicación sea intuitiva y fácil de usar, proporcionando una experiencia de usuario optimizada.
+
+It Team Corp	 Medellín, Colombia
+Desarrolladora Full Stack	Junio 2022 - Mayo 2023
+● Desarrollé una aplicación web estática para organizar propuestas comerciales y documentar proyectos completados, utilizando Angular, Java (para API REST) y PostgreSQL.
+● Diseñe una interfaz de usuario web en JavaScript para acceder y almacenar datos en DynamoDB, gestionar archivos en S3 y presentar resultados de manera intuitiva. 
+
+Make It Real	 Medellín, Colombia
+Desarrolladora Full Stack	August 2021 - Enero 2022
+● Contribuí al desarrollo de MarktPul, una plataforma web para la compra y venta de productos de segunda mano, utilizando Redux, Tailwind CSS,  NodeJs, Express, MongoDB, JWT, Epayco y Bcrypt.
+● Creé una aplicación web para la gestión de procesos de una escuela de danza con perfiles distintos para director y estudiantes, facilitando la creación de cursos, inscripción y pagos.
+
+
+EDUCACIÓN
+Instituto Tecnológico Metropolitano                                                                           Medellín, Colombia
+Desarrollo de Software                                                                                                        2020 - In progress
+● Adquirí conocimientos en Java para la programación orientada a objetos, obteniendo una base sólida en los principios de programación.
+● Amplié mi comprensión de matemáticas, estadísticas y cálculo para un conjunto de habilidades técnicas más completo.
+
+
+HABILIDADES E INTERESES
+Skills: Angular, React, NodeJs, NestJs, MongoDB, Postgresql, JavaScript, Java, Flutter, Git, Scrum, AWS
+Intereses: Volleyball, Senderismo, Danza.
